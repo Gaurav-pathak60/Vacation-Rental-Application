@@ -14,8 +14,8 @@ import { Analytics } from "@vercel/analytics/react";
 const nunito = Nunito({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Airbnb Clone",
-  description: "Airbnb clone",
+  title: "HavenStay",
+  description: "HavenStay",
   icons: {
     icon: "/favicon.ico",
     shortcut: "/favicon.ico",
